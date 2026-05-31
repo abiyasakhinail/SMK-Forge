@@ -5,11 +5,11 @@ SMK-Forge is a web-based application built to help SMK students document and sho
 
 |             Name                |                Role                       |                       Responsibilities                              |
 | :-----------------------------: | :---------------------------------------: | :-----------------------------------------------------------------: |
-| **Aloysius Gonzaga D.L**        | **Lead Developer**                        | Full-stack development, database architecture, and system logic.    |
-| **Bianca Nazihah Putri**        | **UI/UX Designer & QA Tester**            | Visual design, user experience, and Quality Assurance (QA) testing. |
-| **Abiya Sakhi Nail**            | **System Analyst & Technical Writer**     | Flowchart logic design and technical documentation.                 |
-| **Dhafa Nathan Fahlevi**        | **Frontend Developer**                    | UI implementation using Bootstrap and Laravel Blade templates.      |
-| **Keyzahara Princess Giroth**   | **Creative Lead & Branding**              | Visual identity (Logo design), presentation architecture (Canva)    |
+| **Aloysius Gonzaga D.L**        | **Lead Developer**                        | Full-Stack Development, Database Architecture, And System Logic.    |
+| **Bianca Nazihah Putri**        | **UI/UX Designer & QA Tester**            | Visual Design, User Experience, And Quality Assurance (QA) Testing. |
+| **Abiya Sakhi Nail**            | **System Analyst & Technical Writer**     | Flowchart Logic Design and Technical Documentation.                 |
+| **Dhafa Nathan Fahlevi**        | **Frontend Developer**                    | UI Implementation Using Bootstrap And Laravel Blade Templates.      |
+| **Keyzahara Princess Giroth**   | **Creative Lead & Branding**              | Visual Identity (Logo Design), Presentation Architecture (Canva)    |
 
 ## Tech Stack
 Core Frameworks
